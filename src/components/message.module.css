@@ -1,0 +1,38 @@
+.p{
+  /* border: 1px solid red; */
+  display: inline-block; 
+  width: 100%;
+
+}
+.q{
+  float: left;
+  background-color: rgb(179, 236, 94);  
+  border: none;
+  margin: 10px;
+  display: block;
+  padding-left: 10px;
+  padding-right: 10px; 
+  border-radius: 15px;
+  
+
+}
+
+.r{
+  float: right;
+  background-color: #C70039; 
+  border: none; 
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px; 
+  padding: 10px;
+  border-radius: 15px;
+  margin: 10px;
+}
+.s{
+  
+  /* width: 50%; */
+  height: 30px;
+  border-radius: 10px;
+  background-color: #EDEADE	;
+  margin-top: 10px;
+}
